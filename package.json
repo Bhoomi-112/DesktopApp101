@@ -1,0 +1,14 @@
+{
+  "name": "desktopapp1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bhoomi-112",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^36.3.2"
+  }
+}
